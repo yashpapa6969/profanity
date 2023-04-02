@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "467604215279",
+    "project_id": "profanity-9a335",
+    "storage_bucket": "profanity-9a335.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467604215279:android:0df9157cf43bea522e921a",
+        "android_client_info": {
+          "package_name": "com.example.profanity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "467604215279-u4fnmj34qmq7e05pk3kbpf2pt3ggcggu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAH7AOdjGdoUIhqoxxSsp0czcFeEHRIBz4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "467604215279-u4fnmj34qmq7e05pk3kbpf2pt3ggcggu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
